@@ -1,0 +1,43 @@
+    .container {
+        padding-top: 50px;
+        height: 500px;
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 0;
+    }
+
+    .inline {
+        display: inline-block;
+        border: 1px solid black;
+    }
+
+    .element1 {
+        height: 200px;
+        width: 50%;
+        background-color: green;
+    }
+
+    .element2 {
+        width: 50%;
+        height: 200px;
+        background-color: blue;
+    }
+
+    .element3 {
+        height: 300px;
+        width: 33.33%;
+        background-color: grey;
+    }
+
+    .element4 {
+        height: 300px;
+        width: 33.33%;
+        background-color: black;
+    }
+
+    .element5 {
+        height: 300px;
+        width: 33.33%;
+        background-color: orange;
+    }
